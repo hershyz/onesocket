@@ -52,6 +52,6 @@ output: ****5.0
 
 ### Marginal Response Time Improvement over Flask:
 
-![Untitled](onesocket%2098f2e5c446ec408696875eab4eb996db/Untitled.png)
+![Untitled]([onesocket%2098f2e5c446ec408696875eab4eb996db/Untitled.png](https://raw.githubusercontent.com/hershyz/onesocket/main/Untitled%201.png))
 
 ![Untitled](onesocket%2098f2e5c446ec408696875eab4eb996db/Untitled%201.png)
