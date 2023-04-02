@@ -2,7 +2,7 @@
 
 Object-oriented, single-socket API library with CORS support by default.
 
-### initializing API:
+### Initializing API:
 
 ```python
 import onesocket
@@ -27,10 +27,10 @@ api = onesocket.OneSocketAPI(8080, endpoint_map)
 ```
 
 ```
-output: Serving HTTP on PORT: 8080
+output: ****Serving HTTP on PORT: 8080
 ```
 
-### HTTP request from client:
+### HTTP Request from Client:
 
 ```python
 import requests
@@ -47,5 +47,11 @@ print(r.text)
 ```
 
 ```
-output: 5.0
+output: ****5.0
 ```
+
+### Marginal Response Time Improvement over Flask:
+
+![Untitled](onesocket%2098f2e5c446ec408696875eab4eb996db/Untitled.png)
+
+![Untitled](onesocket%2098f2e5c446ec408696875eab4eb996db/Untitled%201.png)
