@@ -26,7 +26,7 @@ endpoint_map = {
 api = onesocket.OneSocketAPI(8080, endpoint_map)
 ```
 
-```python
+```
 output: Serving HTTP on PORT: 8080
 ```
 
@@ -46,6 +46,6 @@ r = requests.get('http://localhost:8080', json=payload)
 print(r.text)
 ```
 
-```python
+```
 output: 5.0
 ```
