@@ -1,5 +1,6 @@
 import requests
 
+# define endpoint in payload:
 payload = {
     'endpoint': 'add',
     'a': 2,
