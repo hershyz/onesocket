@@ -27,7 +27,7 @@ api = onesocket.OneSocketAPI(8080, endpoint_map)
 ```
 
 ```python
-**output:** Serving HTTP on PORT: 8080
+output: Serving HTTP on PORT: 8080
 ```
 
 ### HTTP request from client:
@@ -47,5 +47,5 @@ print(r.text)
 ```
 
 ```python
-**output:** 5.0
+output: 5.0
 ```
