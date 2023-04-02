@@ -53,4 +53,4 @@ output: ****5.0
 ### Marginal Response Time Improvement over Flask:
 
 ![Untitled](https://raw.githubusercontent.com/hershyz/onesocket/main/Untitled%201.png)
-![Untitled](https://raw.githubusercontent.com/hershyz/onesocket/main/Untitled.png)]
+![Untitled](https://raw.githubusercontent.com/hershyz/onesocket/main/Untitled.png)
