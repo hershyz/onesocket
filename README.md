@@ -27,7 +27,7 @@ api = onesocket.OneSocketAPI(8080, endpoint_map)
 ```
 
 ```
-output: ****Serving HTTP on PORT: 8080
+output: Serving HTTP on PORT: 8080
 ```
 
 ### HTTP Request from Client:
@@ -47,7 +47,7 @@ print(r.text)
 ```
 
 ```
-output: ****5.0
+output: 5.0
 ```
 
 ### Marginal Response Time Improvement over Flask:
