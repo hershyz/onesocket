@@ -1,6 +1,6 @@
 # onesocket
 
-Object-oriented, single-socket API framework with CORS support by default.
+Object-oriented, single-socket API library with CORS support by default.
 
 ### Initializing API:
 
